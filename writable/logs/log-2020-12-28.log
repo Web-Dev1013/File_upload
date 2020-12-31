@@ -1,0 +1,927 @@
+CRITICAL - 2020-12-28 00:11:44 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 00:12:42 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 00:12:51 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 00:13:02 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 00:15:01 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 00:15:27 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 00:15:33 --> Argument 1 passed to CodeIgniter\Files\File::__construct() must be of the type string, null given, called in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 6
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(6): CodeIgniter\Files\File->__construct(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(342): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 [internal function]: spl_autoload_call('App\\Controllers...')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 01:46:31 --> move_uploaded_file(http://localhost:8080/Riyadh/upload39510background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 156, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(156): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 01:46:49 --> move_uploaded_file(http://localhost:8080/Riyadh/upload899163background666.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 156, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(156): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 01:49:29 --> move_uploaded_file(http://localhost:8080/Riyadh/upload351176background666.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 156, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(156): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 01:51:49 --> move_uploaded_file(http://localhost:8080/Riyadh/upload582699background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 156, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(156): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:03:56 --> move_uploaded_file(http://localhost:8080/Riyadh/upload50315background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 157, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(157): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:12:35 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/450296background666.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 155, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(155): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:13:23 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/981761background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 155, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(155): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:37:56 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 157, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(157): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:41:36 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 157, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(157): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:48:08 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 158, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(158): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 02:55:01 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/background777.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 158, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(158): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 03:09:54 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/background555.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 153, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(153): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 03:10:53 --> move_uploaded_file(http://localhost:8080/Riyadh/upload/background666.jpg): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 153, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(153): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 03:30:54 --> move_uploaded_file(../../upload/background555.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 153, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(153): move_uploaded_file('C:\\xampp\\tmp\\ph...', '../../upload/ba...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2020-12-28 03:53:50 --> mysqli_sql_exception: Unknown column 'district' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(283): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', '123', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdfasdfasd...', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 03:56:36 --> mysqli_sql_exception: Unknown column 'district' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(283): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', '123', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdfasdfasd...', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 03:57:17 --> mysqli_sql_exception: Unknown column 'district' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(283): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 03:57:50 --> mysqli_sql_exception: Unknown column 'district' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(283): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 05:19:43 --> Call to a member function insert() on null
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background666.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2020-12-28 05:20:34 --> mysqli_sql_exception: Column 'estate_type_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(296): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background444.j...', 'asdfas', 'asdf', 'rwergdsfewf', 'esatet2222222', 'asdf', 'asdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:21:29 --> mysqli_sql_exception: Column 'estate_type_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(296): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background888.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:22:47 --> mysqli_sql_exception: Column 'estate_type_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(296): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background888.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:23:57 --> mysqli_sql_exception: Column 'estate_type_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(296): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background444.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 05:24:48 --> A non-numeric value encountered
+#0 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(279): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 279, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background444.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-28 05:28:16 --> array_push() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(280): array_push(NULL)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background444.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-28 05:28:29 --> array_push() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(280): array_push(NULL)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background.jpg', 'asdf', 'asdfasdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-28 05:28:58 --> array_push() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(280): array_push(NULL)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background.jpg', 'asdf', 'asdfasdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-28 05:29:41 --> array_push() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(280): array_push(NULL)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background.jpg', 'asdf', 'asdfasdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-28 05:31:24 --> mysqli_sql_exception: Column 'estate_type_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(294): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background.jpg', 'asdf', 'asdfasdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:32:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' AND b.user_id = 19
+        LEFT JOIN photo AS c ON c.name = background.jpg...' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(275): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background.jpg', 'asdf', 'asdfasdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:32:58 --> mysqli_sql_exception: Column 'district_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(294): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background.jpg', 'asdf', 'asdfasdf', 'store', 'esatet2222222', 'asdf', 'asdf', '')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:33:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' AND b.user_id = 19
+        LEFT JOIN photo AS c ON c.name = background555....' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(275): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:33:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' AND b.user_id = 19
+        LEFT JOIN photo AS c ON c.name = background555....' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(275): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:34:49 --> mysqli_sql_exception: Unknown column 'store' in 'where clause' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(275): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:35:22 --> mysqli_sql_exception: Unknown column 'store' in 'where clause' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(275): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:35:31 --> mysqli_sql_exception: Unknown column 'store' in 'where clause' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(275): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:36:44 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(294): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:42:20 --> mysqli_sql_exception: Unknown column 'c.id' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(274): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:42:20 --> mysqli_sql_exception: Column 'district_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(291): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 05:43:07 --> mysqli_sql_exception: Unknown column 'c.id' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(274): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:45:04 --> mysqli_sql_exception: Unknown column 'c.id' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(274): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 05:46:20 --> mysqli_sql_exception: Unknown column 'c.id' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(274): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background555.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdfasdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 06:05:57 --> mysqli_sql_exception: Unknown column 'c.id' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(274): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background888.j...', 'asdf', 'asdf', 'store', 'esatet2222222', '', '', '')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 06:06:15 --> mysqli_sql_exception: Unknown column 'c.id' in 'field list' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.id AS ...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.id AS ...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.id AS ...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(274): CodeIgniter\Database\BaseConnection->query('SELECT a.id AS ...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(163): App\Models\User_model->add_offer('19', 'background666.j...', '', '', 'store', 'esatet2222222', '', '', '')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 13:00:42 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''35' = 19 and b.id = a.district_id
+            left join estate_type as c on...' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 13:01:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''35' = 19 and b.id = a.district_id
+            left join estate_type as c on...' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 13:01:42 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''35' = 19 and b.id = a.district_id
+            left join estate_type as c on...' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 13:02:22 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(331): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('35', '2020-12-28 01:0...', 'background.jpg', 'alrosya', 'alrosya', 'alrosya_distric...', 'alrosya_estate_...', 'alrosya', 'alrosya', 'alrosya')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:02:41 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(331): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('35', '2020-12-28 01:0...', 'background.jpg', 'alrosya', 'alrosya', 'alrosya_distric...', 'alrosya_estate_...', 'alrosya', 'alrosya', 'alrosya')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:02:51 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''35' = 19 and b.id = a.district_id
+            left join estate_type as c on...' at line 2 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 13:04:48 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(331): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('35', '2020-12-28 01:0...', 'background.jpg', 'alrosya', 'moscow', 'alrosya_distric...', 'alrosya_estate_...', 'alrosya', 'asdf', 'alrosya')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:06:42 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(331): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('19', '2020-12-28 01:0...', 'background888.j...', 'asdfasdfasdf', 'asdfasdfafdsasd...', 'store', 'esatet2222222', 'asdfasdf', 'asdfasdf', 'asdfadsf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:22:00 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(331): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', '2020-12-28 01:2...', 'background666.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', '', '')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-28 13:28:21 --> Too few arguments to function App\Models\User_model::add_offer(), 9 passed in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 172 and exactly 10 expected
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'background666.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', '', '')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-28 13:32:03 --> Too few arguments to function App\Models\User_model::add_offer(), 9 passed in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 172 and exactly 10 expected
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'background666.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'asdf', '', '')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-28 13:32:20 --> Too few arguments to function App\Models\User_model::add_offer(), 9 passed in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 172 and exactly 10 expected
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'background444.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'alrosya', 'adsf', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-28 13:44:46 --> Too few arguments to function App\Models\User_model::add_offer(), 9 passed in C:\xampp\htdocs\Riyadh\app\Controllers\Home.php on line 172 and exactly 10 expected
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'background444.j...', 'asdf', 'asdf', 'store', 'esatet2222222', 'alrosya', 'adsf', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2020-12-28 13:46:43 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(331): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'cup.png', 'asdfasdfasdfasd...', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdfadsf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:49:59 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(332): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'cup.png', 'asdfasdfasdfasd...', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdfadsf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:52:49 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(332): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', '2020-12-28 01:5...', 'cup.png', 'asdfasdfasdfasd...', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdfadsf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 13:56:14 --> mysqli_sql_exception: Column 'img_url_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(332): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(172): App\Models\User_model->add_offer('19', 'cup.png', 'asdfasdfasdfasd...', 'asdf', 'store', 'esatet2222222', 'asdf', 'asdf', 'asdfadsf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 14:06:16 --> mysqli_sql_exception: Column 'district_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(329): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('19', '2020-12-28 02:0...', 'background.jpg', 'alrosya', 'alrosya', 'alrosya_distric...', 'alrosya_estate_...', 'alrosya', 'aasdf', 'alrosya')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 14:13:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            left join photo as d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:14:20 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            left join photo as d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:14:24 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            left join photo as d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:17:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            LEFT JOIN photo AS d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:17:28 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            LEFT JOIN photo AS d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:18:36 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            LEFT JOIN photo AS d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:19:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' = '35' and c.id = a.estate_type_id
+            LEFT JOIN photo AS d on d.u...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(49): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:29:13 --> mysqli_sql_exception: Column 'id' in where clause is ambiguous in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 14:34:29 --> mysqli_sql_exception: Column 'id' in where clause is ambiguous in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT a.billbo...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT a.billbo...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT a.billbo...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(50): CodeIgniter\Database\BaseConnection->query('SELECT a.billbo...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(36): App\Models\User_model->init_post_data('35', '2')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_post_data()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-28 18:28:58 --> mysqli_sql_exception: Column 'district_id' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(329): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('19', '2020-12-28 06:2...', 'motors.png', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 23:15:48 --> mysqli_sql_exception: Column 'username' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('REPLACE INTO `u...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `u...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `u...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2358): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `u...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(213): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(99): App\Models\User_model->save_Data('19', NULL, NULL, NULL, NULL, NULL)
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 23:58:52 --> mysqli_sql_exception: Column 'location' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(325): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('19', '2020-12-28 11:5...', 'background555.j...', 'asdftest', 'asdftest', 'test', 'test', 'asdftest', 'asdftest', NULL)
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-28 23:58:52 --> mysqli_sql_exception: Column 'location' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `of...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `of...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `of...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `of...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(325): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(173): App\Models\User_model->add_offer('19', '2020-12-28 11:5...', 'background555.j...', 'asdftest', 'asdftest', 'test', 'test', 'asdftest', 'asdftest', NULL)
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}

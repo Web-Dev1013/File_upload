@@ -1,0 +1,210 @@
+CRITICAL - 2020-12-26 00:59:17 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:36 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:37 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:39 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:40 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:41 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:41 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:41 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:41 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:41 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 00:59:50 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(37): CodeIgniter\Model->__call('add_user', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->add_user()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 07:37:40 --> array_push() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(35): array_push(NULL, Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(27): App\Models\User_model->init_Data('mihailov1995101...', '0')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_Data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 07:37:57 --> array_push() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(35): array_push(NULL, Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(27): App\Models\User_model->init_Data('mihailov1995101...', '0')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_Data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 09:20:34 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\Riyadh\system\HTTP\RedirectResponse.php(63): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\Riyadh\system\Common.php(914): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\Riyadh\app\Views\admin.php(338): redirect('/index.php', 'refresh')
+#3 C:\xampp\htdocs\Riyadh\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Riyadh\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(20): view('admin')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->index()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-26 09:21:07 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\Riyadh\system\HTTP\RedirectResponse.php(63): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\Riyadh\system\Common.php(914): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\Riyadh\app\Views\admin.php(338): redirect('http://localhos...', 'refresh')
+#3 C:\xampp\htdocs\Riyadh\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Riyadh\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(20): view('admin')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->index()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-26 09:21:09 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\Riyadh\system\HTTP\RedirectResponse.php(63): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\Riyadh\system\Common.php(914): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\Riyadh\app\Views\admin.php(338): redirect('http://localhos...', 'refresh')
+#3 C:\xampp\htdocs\Riyadh\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Riyadh\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(20): view('admin')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->index()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-26 09:21:14 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\Riyadh\system\HTTP\RedirectResponse.php(63): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\Riyadh\system\Common.php(914): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\Riyadh\app\Views\admin.php(338): redirect('http://localhos...', 'refresh')
+#3 C:\xampp\htdocs\Riyadh\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Riyadh\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(20): view('admin')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->index()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-26 10:24:32 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(56): CodeIgniter\Model->__call('save_data', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 10:26:11 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(56): CodeIgniter\Model->__call('save_data', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 10:27:24 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(56): CodeIgniter\Model->__call('save_data', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 10:27:50 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(56): CodeIgniter\Model->__call('save_data', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-26 10:27:52 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(56): CodeIgniter\Model->__call('save_data', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}

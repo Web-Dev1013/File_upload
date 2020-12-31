@@ -1,0 +1,742 @@
+ERROR - 2020-12-24 12:09:25 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:09:25 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:10:51 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:10:52 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:12:39 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:12:39 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:13:58 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:13:58 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:14:04 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:14:04 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:14:37 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:14:37 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:14:48 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:14:48 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:17:31 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:17:31 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:17:42 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:17:42 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:25:42 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:25:42 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:26:50 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:26:50 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:42:20 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:42:20 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'fds')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:43:15 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:43:15 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'fs')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:43:27 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:43:27 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('fsd', 'fsd')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:43:36 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:43:36 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'fsd')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:45:07 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:45:07 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(20): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'fds')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:52:52 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:52:52 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'FDSAFAFASF')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:52:52 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:52:52 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'FDSAFAFASF')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 12:59:36 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 12:59:36 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:00:20 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:00:20 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:00:28 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:00:28 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:10:54 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:10:54 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:11:21 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:11:21 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:14:45 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:14:45 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:15:52 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:15:53 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:16:31 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:16:31 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'adsfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:20:56 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2020-12-24 13:20:56 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(602): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2020-12-24 13:32:35 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'genji19950114@outlook.com', `password`='asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 13:47:44 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'mihailov19951013@outlook.com', `password`='asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 13:53:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'alrosyaivan@yandex.ru', `password`='asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('alrosyaivan@yan...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 13:55:53 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'alrosyaivan@yandex.ru' `password`='asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('alrosyaivan@yan...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 13:56:12 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'alrosyaivan@yandex.ru' `password`='asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('alrosyaivan@yan...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 13:56:18 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'asdf' `password`='asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('asdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 13:56:19 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`email` = 'asdf' `password`='asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT into use...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT into use...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT into use...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(25): CodeIgniter\Database\BaseConnection->query('INSERT into use...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('asdf', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 14:12:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'aa'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'aa')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:36:52 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:37:04 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:41:16 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:41:35 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:41:37 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:42:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:48:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:50:16 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:55:00 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:58:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:59:04 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 18:59:50 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:03:01 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdfasdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdfasdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:14:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:16:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:16:36 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:20:04 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:20:53 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2020-12-24 19:22:07 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `password` = 'asdf'' at line 1 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT email fr...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT email fr...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT email fr...')
+#3 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(19): CodeIgniter\Database\BaseConnection->query('SELECT email fr...')
+#4 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-12-24 19:51:54 --> mysqli_fetch_lengths() expects parameter 1 to be mysqli_result, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_fetch_le...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): mysqli_fetch_lengths(Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 19:52:30 --> mysqli_fetch_lengths() expects parameter 1 to be mysqli_result, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_fetch_le...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): mysqli_fetch_lengths(Object(CodeIgniter\Database\MySQLi\Result))
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 19:57:47 --> number_format() expects parameter 1 to be float, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'number_format()...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(22): number_format(Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('asdfasdf@as', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:00:14 --> number_format() expects parameter 1 to be float, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'number_format()...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): number_format(Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('asdf@asd.asd', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:00:51 --> number_format() expects parameter 1 to be float, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'number_format()...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): number_format(Object(CodeIgniter\Database\MySQLi\Result))
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('asdf@asd.asd', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:05:46 --> mysqli_fetch_lengths() expects parameter 1 to be mysqli_result, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_fetch_le...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): mysqli_fetch_lengths(Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:06:22 --> mysqli_fetch_lengths() expects exactly 1 parameter, 2 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_fetch_le...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): mysqli_fetch_lengths(Object(CodeIgniter\Database\MySQLi\Connection), Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:09:44 --> mysqli_fetch_row() expects parameter 1 to be mysqli_result, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_fetch_ro...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): mysqli_fetch_row(Array)
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:15:41 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(21): count(Object(stdClass))
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-24 20:17:13 --> Call to undefined method stdClass::count()
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-24 20:25:10 --> Call to undefined method stdClass::count_all_results()
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('alrosyaivan@yan...', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2020-12-24 21:05:56 --> mysqli_sql_exception: Not unique table/alias: 'user' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(1966): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(23): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-24 21:06:32 --> mysqli_sql_exception: Not unique table/alias: 'user' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(1966): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(23): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('alrosyaivan@yan...', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-24 21:07:38 --> mysqli_sql_exception: Not unique table/alias: 'user' in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(1966): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(23): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-24 21:08:44 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%mihailov19951013@outlook.com%' ESCAPE '!' 
+AND  `pass` = LIKE '%asdf%'...' at line 3 in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(1966): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(23): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(23): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}

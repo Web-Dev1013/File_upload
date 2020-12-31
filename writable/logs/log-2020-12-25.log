@@ -1,0 +1,21 @@
+CRITICAL - 2020-12-25 00:45:27 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(26): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-25 01:04:53 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(26): App\Models\User_model->login('genji19950114@o...', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-25 01:07:05 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(26): App\Models\User_model->login('mihailov1995101...', 'asdf')
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}

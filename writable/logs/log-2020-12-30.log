@@ -1,0 +1,8 @@
+CRITICAL - 2020-12-30 00:49:37 --> move_uploaded_file(localhost:8080/Riyadh/upload/login.png): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(170): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'localhost:8080/...')
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->upload()
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}

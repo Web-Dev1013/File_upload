@@ -1,0 +1,156 @@
+CRITICAL - 2020-12-27 11:37:41 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\User...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\User...')
+#3 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(10): spl_autoload_call('App\\Models\\User...')
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(903): App\Controllers\Home->__construct()
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(417): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-27 11:37:55 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\Riyadh\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\User...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\User...')
+#3 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(10): spl_autoload_call('App\\Models\\User...')
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(903): App\Controllers\Home->__construct()
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(417): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-27 11:50:50 --> Call to a member function reg_district() on null
+#0 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-27 11:56:24 --> Call to a member function reg_district() on null
+#0 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-27 11:57:45 --> Call to a member function reg_district() on null
+#0 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#1 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2020-12-27 12:46:20 --> mysqli_sql_exception: Column 'username' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('REPLACE INTO `u...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `u...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `u...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2358): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `u...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(105): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(61): App\Models\User_model->save_Data('31', NULL, NULL, NULL, NULL, NULL)
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-27 12:46:25 --> mysqli_sql_exception: Column 'username' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('REPLACE INTO `u...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `u...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `u...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2358): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `u...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(105): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(61): App\Models\User_model->save_Data('31', NULL, NULL, NULL, NULL, NULL)
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->save_data()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-27 18:49:19 --> mysqli_sql_exception: Column 'district' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `di...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `di...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `di...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `di...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(142): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(82): App\Models\User_model->reg_district(NULL, '19')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-27 18:55:07 --> mysqli_sql_exception: Column 'district' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `di...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `di...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `di...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `di...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(142): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(82): App\Models\User_model->reg_district(NULL, '19')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-27 18:55:15 --> mysqli_sql_exception: Column 'district' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `di...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `di...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `di...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `di...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(142): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(82): App\Models\User_model->reg_district(NULL, '19')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-27 18:55:41 --> mysqli_sql_exception: Column 'district' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `di...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `di...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `di...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `di...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(142): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(82): App\Models\User_model->reg_district(NULL, '19')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2020-12-27 18:57:01 --> mysqli_sql_exception: Column 'district' cannot be null in C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\Riyadh\system\Database\MySQLi\Connection.php(314): mysqli->query('INSERT INTO `di...')
+#1 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(697): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `di...')
+#2 C:\xampp\htdocs\Riyadh\system\Database\BaseConnection.php(625): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `di...')
+#3 C:\xampp\htdocs\Riyadh\system\Database\BaseBuilder.php(2265): CodeIgniter\Database\BaseConnection->query('INSERT INTO `di...', Array, false)
+#4 C:\xampp\htdocs\Riyadh\app\Models\User_model.php(142): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(82): App\Models\User_model->reg_district(NULL, '19')
+#6 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->reg_district()
+#7 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-27 20:37:01 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(51): CodeIgniter\Model->__call('init_add_estate...', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_add_estate_modal()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-27 20:37:25 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(51): CodeIgniter\Model->__call('init_add_estate...', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_add_estate_modal()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-27 20:37:30 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\Riyadh\system\Model.php(594): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\Riyadh\system\Model.php(793): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\Riyadh\app\Controllers\Home.php(51): CodeIgniter\Model->__call('init_add_estate...', Array)
+#3 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(931): App\Controllers\Home->init_add_estate_modal()
+#4 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\Riyadh\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Riyadh\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
